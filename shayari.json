@@ -1,0 +1,40 @@
+{
+    "jsonStart": [
+        {
+            "shayariTitle": "Morning Shayari",
+            "totalCount": "500+ Shayari",
+            "elements": [
+                {
+                    "text": "AAAA"
+                },
+                {
+                    "text": "BBBB"
+                },
+                {
+                    "text": "CCCC"
+                },
+                {
+                    "text": "DDDD"
+                }
+            ]
+        },
+        {
+            "shayariTitle": "Love Shayari",
+            "totalCount": "1000+ Shayari",
+            "elements": [
+                {
+                    "text": "AAAA"
+                },
+                {
+                    "text": "BBBB"
+                },
+                {
+                    "text": "CCCC"
+                },
+                {
+                    "text": "DDDD"
+                }
+            ]
+        }
+    ]
+}
